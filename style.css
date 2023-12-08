@@ -38,7 +38,7 @@ header {
   display: flex;
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.15)),
-    url("../images/taj.jpg");
+    url("taj.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
